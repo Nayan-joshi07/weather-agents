@@ -1,0 +1,4 @@
+pydantic-ai
+httpx
+logfire
+devtools
